@@ -74,5 +74,4 @@ Scheduled run in ML Studio:
 <img width="776" alt="Scheduled-run-2" src="https://user-images.githubusercontent.com/115837790/197187219-7c50613e-caa1-4502-aec4-cc327353c05d.PNG">
 
 ## Screen Recording
-*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
-
+https://vimeo.com/762611422
